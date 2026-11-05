@@ -34,4 +34,4 @@ handle unexpected inputs without raising exceptions.
 python daycare_fees.py
 ```
 
-The PDF report and screenshots are submitted separately.
+
